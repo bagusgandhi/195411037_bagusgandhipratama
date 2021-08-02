@@ -1,1 +1,3 @@
-# gandhi.github.io
+# Tugas Praktikum Cloud Computing
+### Bagus Gandhi Pratama
+### 195411037
